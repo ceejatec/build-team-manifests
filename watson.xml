@@ -91,7 +91,7 @@
     <annotation name="RELEASE" value="watson" />
     <annotation name="PRODUCT_BRANCH" value="watson-dp1" />
     <annotation name="PRODUCT" value="couchbase-server" />
-    <annotation name="BLD_NUM" value="1399" />
+    <annotation name="BLD_NUM" value="1299" />
     <annotation keep="true" name="VERSION" value="4.5.0" />
     <annotation keep="true" name="EDITION" value="@EDITION@" />
   </project>
